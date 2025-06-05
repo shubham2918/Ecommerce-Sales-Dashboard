@@ -20,13 +20,9 @@ This Power BI project involves building an interactive dashboard to analyze and 
    - Bar Chart  
    - Pie Chart  
    - Donut Chart  
-   - Clustered Bar Chart  
-   - Scatter Chart  
-   - Line Chart  
-   - Area Chart  
-   - Map  
+   - Clustered Bar Chart   
+   - Line Chart    
    - Slicers  
-   - Etc.
 
 ---
 
